@@ -1,0 +1,29 @@
+.full-banner{
+    //text-align: center;
+    //color: black;
+    //width: 1024px;
+    //margin: 20px auto;
+    box-shadow: 1px 1px 6px;
+}
+.menu{
+    background: red;
+}
+.container{
+    background: aquamarine;
+}
+.footer{
+    background: grey;
+}
+.footer-bottom{
+    background: silver;
+}
+.img{
+    max-width: 100%;
+    margin-bottom: -5px;
+}
+.op{
+    padding: 30px 0;
+}
+.opx{
+    padding: 60px;
+}
